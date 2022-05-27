@@ -1,0 +1,53 @@
+.outer{
+    width:100%;
+    height:600px;
+    background-color: antiquewhite;
+    float:left;
+}
+.inner{
+    width:80%;
+    height:400px;
+    background-color: beige;
+    float:left;
+    margin-left:40px;
+    margin-top:40px;
+}
+button{
+    width:30px;
+    height:20px;
+   
+}
+table{
+    margin-left:40px;
+    margin-top:40px;
+    padding:15px;
+
+}
+#srch{
+    font-size:10px;
+    width:50px;
+}
+#brand{
+    width:20%;
+    margin-left:20%;
+}
+#os{
+    width:20%;
+}
+table{
+    width:60%;
+    margin-left:20%;
+    
+    
+}
+th{
+    color:lightcoral;
+    background-color: white;
+    border-radius:5px;
+    border-radius:1px solid red;
+
+}
+td{
+    color:black;
+   text-align: center;
+}
